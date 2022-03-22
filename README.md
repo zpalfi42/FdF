@@ -43,6 +43,6 @@
   </a>
 </p>
 
-#### BUTTONS
+### BUTTONS
 
-###### - ↥ for moving the drawing upwards
+#### - `↥` for moving the drawing upwards
