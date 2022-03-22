@@ -7,7 +7,7 @@
 ### 📚 Mandatory Part 📚
 
 - **Name of the program** : `fdf`
-- **Files** : [`*.c`](./src) [`fdf.h`](.fdf.h) [`Makefile`](./Makefile)
+- **Files** : [`*.c`](./src) [`fdf.h`](./fdf.h) [`Makefile`](./Makefile)
 - **Makefile rules** : `all` `clean` `fclean` `re`
 - **Authorized functions** : [`open`](https://man7.org/linux/man-pages/man2/open.2.html) [`read`](https://man7.org/linux/man-pages/man2/read.2.html) [`write`](https://man7.org/linux/man-pages/man2/write.2.html) [`close`](https://linux.die.net/man/2/close) [`malloc`](https://man7.org/linux/man-pages/man3/free.3.html) [`free`](https://man7.org/linux/man-pages/man3/free.3.html) [`perror`](http://www.w3big.com/es/cprogramming/c-function-perror.html) [`strerror`](http://www.w3big.com/es/cprogramming/c-function-strerror.html) [`exit`](https://www.tutorialspoint.com/c_standard_library/c_function_exit.htm) [`math library`](https://www.tutorialspoint.com/c_standard_library/math_h.htm) [`miniLibX library`](./mlx)
 - [**Libft**](https://github.com/Zsolt42/Libft) **authorized**.
