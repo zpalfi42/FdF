@@ -43,6 +43,13 @@
   </a>
 </p>
 
-### BUTTONS
+### ⌨️ BUTTONS ⌨️
 
-#### - `↥` for moving the drawing upwards
+#### - key `↥` for moving the drawing upwards
+#### - key `↧` for moving the drawing downwards
+#### - key `←` for moving the drawing leftwards
+#### - key `↦` for moving the drawing rightwards
+#### - key `W` to increase the value of `z` position
+#### - key `S` to decrease the value of `z` position
+#### - key `Q` to increase the value of zoom
+#### - key `E` to decrease the value of zoom
