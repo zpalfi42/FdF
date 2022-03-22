@@ -3,9 +3,7 @@
 
 #### This project is a little bit different from the other ones. For this project we will have to make a program capable of drawing 3D maps with help of the [`MiniLibX`](./mlx) graphic library. We will learn how to place points in space and how to join them with segments.
 
-## 📖 Content 📖
-
-### 📚 Mandatory Part 📚
+## 📚 Mandatory Part 📚
 
 - **Name of the program** : `fdf`
 - **Files** : [`*.c`](./src) [`fdf.h`](./fdf.h) [`Makefile`](./Makefile)
