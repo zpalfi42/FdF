@@ -1,4 +1,5 @@
 <h1 align="center">FdF</h1>
+<h4 align="center">⚠️This project only works for MacOS⚠️</h4>
 
 #### This project is a little bit different from the other ones. For this project we will have to make a program capable of drawing 3D maps with help of the [`MiniLibX`](./mlx) graphic library. We will learn how to place points in space and how to join them with segments.
 
@@ -33,7 +34,7 @@
 
 #### To execute this program you sould execute this command:
 
-#### `./fdf 42.fdf`
+#### `./fdf example.fdf`
 
 #### And you should see something like this:
 
@@ -45,14 +46,16 @@
 
 ## ⌨️ BUTTONS ⌨️
 
-#### - key `↥` for moving the drawing upwards
-#### - key `↧` for moving the drawing downwards
-#### - key `←` for moving the drawing leftwards
-#### - key `↦` for moving the drawing rightwards
-#### - key `W` to increase the value of `z` position
-#### - key `S` to decrease the value of `z` position
-#### - key `Q` to increase the value of zoom
-#### - key `E` to decrease the value of zoom
+| KEY | VALUE| WHAT IS IT FOR? |
+| --- | ---- | --------------- |
+| `↥` |  126 | Moving the drawing upwards |
+| `↧` |  125 | Moving the drawing downwards |
+| `←` |  123 | Moving the drawing leftwards |
+| `↦` | 124  | Moving the drawing rightwards |
+| `W` |  13  | Increase the value of `z` position |
+| `S` |  1  | Decrease the value of `z` position |
+| `Q` |  12  | Increase the value of zoom |
+| `E` |  14  | Decrease the value of zoom |
 
 ## 💯 Mark 💯
 
